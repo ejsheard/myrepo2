@@ -16,3 +16,10 @@ mtcars_summary <- mtcars %>%
 mtcars_summary # view summary created
 
 # Commit - 'summarize disp and hp by cyl'
+
+ggplot(mtcars, aes(x = disp, y = hp, colour = cyl)) + 
+  geom_point() # scatterplot with disp on x axis and hp on y axis with the cylinder grouping factor as colour of the data points
+
+
+# Commit - 'Sometimes a graph is more informative than a table'
+
