@@ -1,6 +1,8 @@
 # myrepo2
 Test project: work through from https://happygitwithr.com/new-github-first.html
 
+This also looks a good introduction guide https://rfortherestofus.com/2021/02/how-to-use-git-github-with-r/ 
+
 This is a line from RStudio
 This is also a line from RStudio
 Line added from GitHub
